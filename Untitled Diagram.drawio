@@ -7,44 +7,114 @@
         <mxCell id="Foxg23A86kioJZnd39G2-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 16px; line-height: 140%;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Initial morphology-based (phenotypic) classification&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="190" width="380" x="190" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="Foxg23A86kioJZnd39G2-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="230.23" y="280" />
-            </Array>
-            <mxPoint x="305.0047252747254" y="207.63736263736268" as="sourcePoint" />
-            <mxPoint x="229.73" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Foxg23A86kioJZnd39G2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;line-height: 160%;&quot;&gt;Processing of Hemiptera sample from all sample&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="40" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="Foxg23A86kioJZnd39G2-6" edge="1" parent="1" source="Foxg23A86kioJZnd39G2-1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;entryX=0.22;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.769;exitY=0.728;exitDx=0;exitDy=0;exitPerimeter=0;" target="Foxg23A86kioJZnd39G2-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="210" />
-            </Array>
-            <mxPoint x="460" y="200" as="sourcePoint" />
-            <mxPoint x="560" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Foxg23A86kioJZnd39G2-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;line-height: 160%;&quot;&gt;All other specimens will not be processed&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" vertex="1">
-          <mxGeometry height="70" width="290" x="490" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="Foxg23A86kioJZnd39G2-8" edge="1" parent="1" source="Foxg23A86kioJZnd39G2-4" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=0.595;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="90" y="330" as="sourcePoint" />
-            <mxPoint x="240" y="390" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry height="70" width="290" x="490" y="240" as="geometry" />
         </mxCell>
         <mxCell id="Foxg23A86kioJZnd39G2-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;line-height: 140%;&quot;&gt;Sequencing&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="330" y="380" as="geometry" />
+          <mxGeometry height="80" width="120" x="350" y="380" as="geometry" />
         </mxCell>
         <mxCell id="Foxg23A86kioJZnd39G2-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" value="&lt;font style=&quot;font-size: 14px; line-height: 140%;&quot;&gt;&lt;b&gt;DNA extaraction&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="140" x="20" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-4" edge="1" parent="1" source="Foxg23A86kioJZnd39G2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" target="Foxg23A86kioJZnd39G2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Foxg23A86kioJZnd39G2-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;COI-gene Amplification&amp;nbsp;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="185" y="380" as="geometry" />
+          <mxGeometry height="80" width="120" x="200" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="Foxg23A86kioJZnd39G2-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="420" as="sourcePoint" />
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 14px; line-height: 150%;&quot;&gt;&lt;b&gt;Build Reference COI database (BOLD and GenBank)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="300" x="500" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;line-height: 140%;&quot;&gt;Public sequence COI Data (Hemiptera)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="490" y="533" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;line-height: 140%;&quot;&gt;Curated Hemiptera Reference COI Database (V1)&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="500" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-16" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" target="HLZEma9OzKzfCwgA0kiV-8" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="650" y="530" as="sourcePoint" />
+            <mxPoint x="720" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-18" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="649.5" y="638" as="sourcePoint" />
+            <mxPoint x="649.5" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-20" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#0050ef;strokeColor=#001DBC;entryX=0.523;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="283.1" y="459" as="sourcePoint" />
+            <mxPoint x="280.0000000000001" y="522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;line-height: 140%;&quot;&gt;&lt;font&gt;Newley generated Raw sequence data from This study&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="100" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-27" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#0050ef;strokeColor=#001DBC;exitX=0.626;exitY=0.939;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="287.15" y="576.2699999999999" as="sourcePoint" />
+            <mxPoint x="287.0012112408109" y="649.9997898034511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-28" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;line-height: 140%;&quot;&gt;Compare new sequence from study as query with V1 Database&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="325" x="125" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="326.35" as="sourcePoint" />
+            <mxPoint x="270" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-32" edge="1" parent="1" source="Foxg23A86kioJZnd39G2-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="226.35" as="sourcePoint" />
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-33" edge="1" parent="1" source="Foxg23A86kioJZnd39G2-1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#0050ef;strokeColor=#001DBC;exitX=0.906;exitY=0.616;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Foxg23A86kioJZnd39G2-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="200" as="sourcePoint" />
+            <mxPoint x="550" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-34" edge="1" parent="1" source="HLZEma9OzKzfCwgA0kiV-28" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#0050ef;strokeColor=#001DBC;exitX=0.222;exitY=0.744;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="180.14878875918907" y="750" as="sourcePoint" />
+            <mxPoint x="160" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-35" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="&lt;b&gt;&lt;font style=&quot;line-height: 140%; font-size: 16px;&quot;&gt;Similarity &amp;lt;97% is potential candidate for new species&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="20" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-36" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#1ba1e2;strokeColor=#006EAF;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="690" />
+            </Array>
+            <mxPoint x="425" y="700" as="sourcePoint" />
+            <mxPoint x="495" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-37" edge="1" parent="1" source="HLZEma9OzKzfCwgA0kiV-28" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#008a00;strokeColor=#005700;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="1000" as="sourcePoint" />
+            <mxPoint x="440" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HLZEma9OzKzfCwgA0kiV-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px; line-height: 130%;&quot;&gt;Updated Reference data base (V2) composed of V1 and New Raw Sequence from this study&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="215" width="310" x="440" y="765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
